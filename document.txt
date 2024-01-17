@@ -1,0 +1,8 @@
+express 
+morgan 
+nodemon 
+ejs 
+body-parser 
+dotenv 
+mongoose 
+axios
